@@ -2,12 +2,11 @@
 dc @ binaryinformative
 
 discord-memory-scraper
-A Windows utility that extracts Discord username and user ID from process memory using the Windows API. Built with C++17 for educational exploration of low-level process inspection.
-Features
 
-Scans Discord process memory for username and user ID.
-Supports verbose logging with --verbose flag.
-Thread-safe and RAII-based for robust resource management.
+
+scans discord process memory for username and user ID.
+supports verbose logging with --verbose flag
+thread-safe and raii based for robust resource management.
 
 Requirements
 
