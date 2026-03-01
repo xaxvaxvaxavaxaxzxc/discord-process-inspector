@@ -1,5 +1,5 @@
 # discord-process-inspector
-dc @ binaryinformative
+
 
 discord-process-inspector
 get discord logs
